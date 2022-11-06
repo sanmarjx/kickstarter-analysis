@@ -26,7 +26,7 @@ After analyzing this data, I observed that there is a trend for successful campa
 There is also a trend found in the percentage of sucessful campaigns based on the goal amount. I can see that campaigns become less sucessful the higher the goal is. There is an uptick in success in campaigns with a goal between $35,000 and $44,999 but the data sample is very small compared to the other goal amounts. From this analysis it can be determined that a goal between $0 and $4,999 has the highest success rate.
 
 ### Limitations
-There is some additional data that could be acquired in order to make a more accurate analysis. 
+There is some additional data that could be obtained in order to make a more accurate analysis. 
 
 #### Location
 This data looked at Kickstarter campaigns all over the world. It would be beneficial for this analysis if the United States data was broken down into states to see where is the best place to launch a campaign.
